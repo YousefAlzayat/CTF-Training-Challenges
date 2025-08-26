@@ -1,0 +1,4 @@
+I was applying some XOR operations, and I XORed two values (A and B) with each other and got a final value (C), now I can't find one of the first values, can you help me?
+
+A = 5b d1 95 bd 22 c1 d1 a7 38 6c d0 a7 ed 54 53 ce 1e fb 0c c8
+C = 35b6a58d4f8285e1435d8febdd02609146cb5eb5

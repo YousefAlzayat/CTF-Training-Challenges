@@ -1,0 +1,4 @@
+I encrypted my secret flag using XOR with a single-byte key.  
+Can you recover it?  
+
+Ciphertext: 3b 32 65 65 38 16 01 13 2e 0d 65 07 0a 66 3b 36 27 2c 25 21 64 65 3b 28
