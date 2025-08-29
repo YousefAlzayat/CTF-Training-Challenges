@@ -1,0 +1,8 @@
+if x % 17 = 9
+find:
+  x + 5 (mod 17)
+  x - 5 (mod 17)
+  x * 5 (mod 17)
+  5x + 27 (mod 17)
+  5(x-8) (mod 17)
+  
